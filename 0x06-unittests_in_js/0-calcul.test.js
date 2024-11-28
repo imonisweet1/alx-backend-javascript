@@ -29,3 +29,4 @@ describe("calculateNumber()", function() {
 	assert.strictEqual(res, -2);
     });
 });
+
